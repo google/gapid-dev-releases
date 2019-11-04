@@ -25,6 +25,9 @@ be displayed on GAPID startup screen:
 
 ![alt text](https://github.com/google/gapid-dev-releases/raw/master/images/new-update.png "Screenshot of GAPID startup screen with 'New update available' notification")
 
+Clicking on this notification will bring you to the latest dev-release page on
+GitHub from where you can download the build relevant to your platform.
+
 ---
 
 This is not an officially supported Google product.
