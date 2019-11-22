@@ -9,7 +9,6 @@
 | [v1.7.0-dev-20191108](https://github.com/google/gapid-dev-releases/releases/tag/v1.7.0-dev-20191108) | [e16e155df9d634543bd18aee778efb5907983dad](https://github.com/google/gapid/commit/e16e155df9d634543bd18aee778efb5907983dad) |
 | [v1.7.0-dev-20191111](https://github.com/google/gapid-dev-releases/releases/tag/v1.7.0-dev-20191111) | [9b97760b9c1c76b294b0af010b74dd533f2f7abf](https://github.com/google/gapid/commit/9b97760b9c1c76b294b0af010b74dd533f2f7abf) |
 | [v1.7.0-dev-20191112](https://github.com/google/gapid-dev-releases/releases/tag/v1.7.0-dev-20191112) | [a0a6b6c82e12c7a436de3effd8e460310eb3f319](https://github.com/google/gapid/commit/a0a6b6c82e12c7a436de3effd8e460310eb3f319) |
-
 | [v1.7.0-dev-20191120](https://github.com/google/gapid-dev-releases/releases/tag/v1.7.0-dev-20191120) | [62d089d7134e8618e029e40a89aa828e1083c17c](https://github.com/google/gapid/commit/62d089d7134e8618e029e40a89aa828e1083c17c) |
 | [v1.7.0-dev-20191121](https://github.com/google/gapid-dev-releases/releases/tag/v1.7.0-dev-20191121) | [bfe97025d5d7b9a2fe3789c6c8f2707a5b23041a](https://github.com/google/gapid/commit/bfe97025d5d7b9a2fe3789c6c8f2707a5b23041a) |
 | [v1.7.0-dev-20191122](https://github.com/google/gapid-dev-releases/releases/tag/v1.7.0-dev-20191122) | [c4a9c80df61e29fca5845eda7a2e0a605ac611b5](https://github.com/google/gapid/commit/c4a9c80df61e29fca5845eda7a2e0a605ac611b5) |
