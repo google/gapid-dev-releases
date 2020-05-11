@@ -1,3 +1,11 @@
+# ARCHIVED
+
+May 2020: this repository is archived, there will not be new GAPID dev-releases.
+
+Checkout the [Android GPU Inspector](https://github.com/google/agi) project and its own [dev-releases](http://github.com/google/agi-dev-releases).
+
+------------------------------------------------------------------------
+
 # gapid-dev-releases
 
 This repository is used as a placeholder for [GAPID](https://gapid.dev) dev-releases.
